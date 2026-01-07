@@ -9,6 +9,8 @@
 
 ---
 
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/1dbfed7c-c4da-40ee-8b9d-89a5a5f66fb7" />
+
 ## ✨ Features
 
 * 🧠 **CPU**
