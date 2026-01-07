@@ -91,7 +91,7 @@
 ```bash
 git clone https://github.com/yourusername/Top-Monitoring.git
 cd Top-Monitoring
-dotnet build -c Release
+dotnet run (if not appear just close terminal and write dotnet run again)
 ```
 
 ---
