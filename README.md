@@ -208,6 +208,10 @@ If you find this project useful:
 
 ---
 
+⚠️ Note:
+If you pull new updates from GitHub, you must rebuild the executable.
+The EXE is not auto-updated.
+
 ### Final note
 
 This project is built for **daily real-world usage**, not demos.
